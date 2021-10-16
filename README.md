@@ -10,6 +10,7 @@ Atendees Please Sign Below :
 Suyash - Git Instructor
 Sonali
 Aratrika
+David McCormick
+Melvin
 Spatiha Pathmanaban
-
 sdfd
