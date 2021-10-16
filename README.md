@@ -10,4 +10,5 @@ Atendees Please Sign Below :
 Suyash - Git Instructor
 Sonali
 Aratrika
-Melvin 
+David McCormick
+Melvin
