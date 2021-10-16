@@ -7,6 +7,7 @@ Hello and welcome to the DSC Workshop!
 
 
 Atendees Please Sign Below :
-Suyash - Git Instructor
-Sonali
-Aratrika
+Suyash - Git Instructor    
+Sonali  
+Aratrika     
+Farooq-U
